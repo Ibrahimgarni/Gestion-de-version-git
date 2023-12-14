@@ -36,7 +36,7 @@ unset($pdo);
 
 <head>
     <meta charset="UTF-8">
-    <title>Liste des Événements</title>
+    <title>Liste des Fêtes</title>
     <link rel="stylesheet" href="css/root.css">
     <link rel="stylesheet" href="css/header.css">
     <link rel="stylesheet" href="css/footer.css">
