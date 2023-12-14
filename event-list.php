@@ -36,7 +36,7 @@ unset($pdo);
 
 <head>
     <meta charset="UTF-8">
-    <title>Liste des Événements</title>
+    <title>Liste des Fêtes</title>
     <link rel="stylesheet" href="css/root.css">
     <link rel="stylesheet" href="css/header.css">
     <link rel="stylesheet" href="css/footer.css">
@@ -48,7 +48,7 @@ unset($pdo);
     <?php include('includes/header.php'); ?> <!-- En-tête du site -->
 
     <div class="container">
-        <h2>FestiPlan</h2>
+        <h2>Liste des fêtes</h2>
         <div class="event-container">
             <?php if (count($events) > 0) : ?>
                 <?php foreach ($events as $event) : ?>
