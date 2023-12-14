@@ -25,21 +25,21 @@ Votre évaluation portera sur votre maîtrise de Git, ainsi que sur l'applicatio
 
 Liste des tickets
 
-Ticket 1: Remplacement de Texte dans l'Application
+Ticket 1: Remplacement de Texte dans l'Application Ahmed
 ● Description : Dans toutes les pages, remplacer le terme "événement" par "fête" (incluant le texte, les titres, le menu, etc.).
 
-Ticket 2: Correction de Bug sur la Page de Détails
+Ticket 2: Correction de Bug sur la Page de Détails Inès
 ● Description : Sur la page de détails de l'événement, corriger le bug affectant l'affichage du pseudo de l'utilisateur ayant créé l'événement (vérifier la ligne 83 du fichier).
 
-Ticket 3: Correction de Style sur le Bouton 'Supprimer'
+Ticket 3: Correction de Style sur le Bouton 'Supprimer' Ahmed
 ● Description : Sur la page "Mes événements", ajuster le style du bouton "Supprimer". Lors du survol, le bouton devient orange au lieu de rouge vif. Le code couleur doit être #ff0f0f (Vérifiez le fichier root.css).
 
-Ticket 4: Correction du Titre sur la Page Liste des Événements
+Ticket 4: Correction du Titre sur la Page Liste des Événements Ibrahim
 ● Description : Sur la page listant les événements, le titre actuel est incorrect.
 Il doit être changé de "FestiPlan" à "Liste des fêtes".
 
-Ticket 5: Correction de Lien dans le Menu
+Ticket 5: Correction de Lien dans le Menu Ibrahim
 ● Description : Dans le menu, le lien "Liste des événements" redirige actuellement vers une page inexistante. Ce lien doit être modifié pour rediriger vers "event-list.php".
 
-Ticket 6: Correction de Fautes de Frappe et d'Orthographe
+Ticket 6: Correction de Fautes de Frappe et d'Orthographe Inès
 ● Description : Sur la page de création d'un événement, corriger les fautes de frappe et d'orthographe dans plusieurs labels des champs de saisie.
