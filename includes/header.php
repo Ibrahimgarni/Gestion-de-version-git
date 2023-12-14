@@ -4,7 +4,7 @@
             <!-- Liens pour les utilisateurs connectés -->
             <a href="profil.php">Profil</a>
             <a href="my-events.php">Mes Fêtes</a>
-            <a href="event-liste.php">Liste des fêtes</a>
+            <a href="event-list.php">Liste des fêtes</a>
             <a href="creation-event.php">Créer une Fête</a>
             <a href="logout.php">Déconnexion</a>
         <?php else : ?>
